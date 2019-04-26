@@ -12,7 +12,7 @@
         "laravel/tinker": "^1.0",
         "owen-it/laravel-auditing": "^6.0",
         "sentry/sentry-laravel": "^0.8.0",
-        "tightenco/ziggy": "^0.6.6",
+        "tightenco/ziggy": "^0.7.1",
         "yajra/laravel-datatables": "^1.0",
         "zizaco/entrust": "^1.9"
     },
